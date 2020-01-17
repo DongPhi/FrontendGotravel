@@ -186,9 +186,8 @@
     text-align: center;
     padding-bottom:30px;
 }
-/* ---------------------pooter----------------------- */
-.pooter-bg{
-    background: #00bdbb;
+/* ---------------------other----------------------- */
+.other-bg{
     padding-top: 30px;
 }
 .mg-bot30{
@@ -248,4 +247,76 @@
     position: absolute;
     bottom: 0;
     right: 0;
+}
+/* ------------pooter----------------- */
+.n3-footer img.pic-line {
+    display: table;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.mg-bot10{
+    margin-bottom: 10px;
+}
+.mg-bot60{
+    margin-bottom: 60px;
+}
+.n3-footer .ft-title {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+    margin-bottom: 20px;
+    color: #ff002d;
+}
+.mg-bot5{
+    margin-bottom: 5px;
+}
+.f-left {
+    float: left;
+}
+.n3-footer .ft-mgtop {
+    margin-top: 2px;
+}
+.n3-footer .ft-mg-hl, .n3-footer .ft-mg-ct {
+    margin-left: 10px;
+}
+.clear {
+    clear: both;
+}
+.n3-footer .hl-num {
+    font-weight: bold;
+    font-size: 18px;
+    /* color: #ff4e53;
+    margin-bottom: 8px; */
+}
+.n3-footer .hl-num a{
+    color:#ff002d;
+    font-weight: bold;
+    text-decoration: none;
+}
+.n3-footer .hl-hour {
+    font-size: 13px;
+    color: #212121;
+}
+.icon-fz19{
+    font-size: 19px;
+}
+.icon-fz22{
+    font-size: 22px;
+}
+.icon-fz20{
+    font-size: 19px;
+}
+/* --------------social--------------- */
+.bg-bottom, .bg-bottom img, .bg-bottom .pos{
+    width: 100%;
+}
+.bg-bottom .bg-bt{
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+    margin-top: -60px;
+}
+.bg-bottom .pos{
+    font-size: 13px;
+    line-height: 16px;
 }
