@@ -285,8 +285,6 @@
 .n3-footer .hl-num {
     font-weight: bold;
     font-size: 18px;
-    /* color: #ff4e53;
-    margin-bottom: 8px; */
 }
 .n3-footer .hl-num a{
     color:#ff002d;
@@ -307,16 +305,65 @@
     font-size: 19px;
 }
 /* --------------social--------------- */
-.bg-bottom, .bg-bottom img, .bg-bottom .pos{
+.bg-bottom, .bg-bottom .pos{
     width: 100%;
-}
-.bg-bottom .bg-bt{
-    width: 100%;
-    height: 50px;
-    background-color: aqua;
-    margin-top: -60px;
+    height: 120px;
 }
 .bg-bottom .pos{
-    font-size: 13px;
-    line-height: 16px;
+    background-image: url(images/bg-bottom.png);
+    background-repeat: no-repeat;
+}
+.bg-bottom .pos p{
+    padding-top: 63px;
+    margin-bottom: -63px;
+}
+.n3-tour-day{
+    margin-bottom: 40px;
+}
+h2.title-l {
+    font-size: 27px;
+    font-weight: 500;
+    text-align: center;
+}
+h2.title-l a{
+    text-decoration: none;
+    color: black;
+}
+h2.title-l a:hover{
+    text-decoration: none;
+    color: red;
+}
+.title-descript {
+    font-size: 17px;
+    color: #555;
+}
+.pos-relative {
+    position: relative;
+}
+.n3-tour-day .tour-day-h324{
+    height: 324px;
+}
+.n3-tour-day .tour-day-wh100{
+    width: 100%; 
+    height: 100%; 
+    background-color: #f1f1f1;
+}
+.n3-tour-day .tour-day-wh100 a img{
+    width:100%;
+    height: 200px;
+}
+.text-tourday-1{
+    border-bottom: 1px dashed #4e4b4a;
+    padding: 10px ;
+}
+.n2-reddy{
+    padding: 10px 10px 5px 10px;
+}
+.n2-reddy .kh-hanh i{
+    padding-right:10px;
+    font-size: 20px;
+}
+.n2-reddy .kh-hanh p{
+    font-size: 16px;
+    
 }
