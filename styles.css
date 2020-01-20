@@ -317,6 +317,7 @@
     padding-top: 63px;
     margin-bottom: -63px;
 }
+/* -----------------Main--------------------- */
 .n3-tour-day{
     margin-bottom: 40px;
 }
@@ -364,6 +365,18 @@ h2.title-l a:hover{
     font-size: 20px;
 }
 .n2-reddy .kh-hanh p{
-    font-size: 16px;
-    
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-tour-day{
+    width: 100%;
+    text-align: center;
+}
+.btn-tour-day .btn{
+    background-color: #00bdbb;
+    color: #fff;
+}
+.btn-tour-day .btn:hover{
+    background-color: #00bdbb;
+    color: #555;
 }
